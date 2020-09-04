@@ -1,0 +1,16 @@
+.transactionHistory {
+  width: 600px;
+  margin: 0px auto;
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+.tableHead {
+  background-color: rgb(65, 186, 223);
+  color: white;
+}
+.tableItem {
+  width: 33.33%;
+  border: 1px solid black;
+  text-align: center;
+  padding: 10px 0;
+}
